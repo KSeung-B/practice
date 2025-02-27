@@ -26,3 +26,5 @@ rebase test
 rebase test
 
 안녕하세요
+
+rebase 1
