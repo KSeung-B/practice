@@ -1,6 +1,7 @@
 squash test 3
 
 
+
 rebase 4
 
 안녕하세요
@@ -15,11 +16,13 @@ rebase 4
 squash test
 
 
+
 squash test
 
 squash 1
 테스트용 브랜치
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 김승범입니다
 
@@ -44,3 +47,5 @@ squash test
 
 김승범입니다
 
+
+김승범입니다
