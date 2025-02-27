@@ -22,3 +22,7 @@ squash 1
 김승범입니다
 
 rebase test
+
+rebase test
+
+안녕하세요
