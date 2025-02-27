@@ -13,3 +13,10 @@ rebase 4
 안녕하세요
 
 squash test
+
+squash test
+
+squash 1
+테스트용 브랜치
+
+김승범입니다
