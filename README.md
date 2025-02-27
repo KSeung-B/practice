@@ -1,4 +1,5 @@
-rebase 4
+squash test 3
+
 
 
 rebase 4
@@ -10,3 +11,5 @@ rebase 4
 저는 김승범입니다 rebase-3
 
 안녕하세요
+
+squash test
